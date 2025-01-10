@@ -1,5 +1,5 @@
 {
-  "name": "downloader-m3u8/downloader",
+  "name": "guanhui07/downloader",
   "type": "project",
   "description": "PHP 协程池极速下载M3U8视频",
   "license": "MIT",
